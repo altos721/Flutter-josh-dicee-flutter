@@ -11,6 +11,7 @@ void main() {
         ),
         body: DicePage(),
       ),
+      debugShowCheckedModeBanner: false,
     ),
   );
 }
